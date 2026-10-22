@@ -82,7 +82,7 @@ The thesis reports predictive macro-F1 of approximately **0.27**, compared with 
 
 ## Research Notebook
 
-[View the complete Jupyter notebook](Rally_Detection_Rule_1_4_10658489202168962284.ipynb)
+[View the complete Jupyter notebook](Rally_Detection_Rule.ipynb)
 
 The notebook presents the original Python implementation, research workflow, statistical analysis, visualisations, validation procedures, and data-quality investigations.
 
